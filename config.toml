@@ -1,0 +1,4 @@
+baseURL = 'https://handiism.github.io/'
+languageCode = 'en-us'
+title = 'Handiism | Personal Website'
+theme = 'loveit'
